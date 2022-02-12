@@ -20,11 +20,11 @@ I use Getx in this project to manage page Navigation and State management
    a. Why did you do it this way?
    - Because I this is the best way to show Image 
     
-2. Briefly describe your design/architectural decisions
+2. Briefly describe your design/architectural decisions.
    a. The idea of this assignment is to understand “how you think?”
    - I think this project is small so i use getx and Getx is fast for development process.
     
-3. Briefly describe shortcomings of the current solution
+3. Briefly describe shortcomings of the current solution.
    a. Briefly describe proposal(s) to overcome such shortcomings
    - I have to setup image name and URL to cut and joint logic for all the image those come from API response. So I put that login in Response file so I don't have to call that logic all the time.
    - This is the first time I use Sanity for API and Create Sanity blog.
